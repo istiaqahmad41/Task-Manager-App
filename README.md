@@ -1,6 +1,6 @@
 # Todo-Flutter
 
-# Simple To-Do App (Flutter + Hive)
+# Simple Task Manager App (Flutter + Hive)
 
 A basic and lightweight To-Do app built with **Flutter** and **Hive** for local data storage. This app allows users to **add** and **delete** tasks with a minimal and clean interface — perfect for learning local persistence in Flutter.
 
