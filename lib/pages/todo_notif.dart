@@ -1,10 +1,17 @@
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
-class TodoNotifications extends StatelessWidget {
-  const TodoNotifications({super.key});
+class TodoNotif extends StatelessWidget {
+  const TodoNotif({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Scaffold(
+        backgroundColor: Color(0xFFF2F5FF),
+        body: Center(
+            child: Text(
+          "Developed by Istiaq Ahmad!",
+          style: TextStyle(fontSize: 20),
+        )));
   }
 }

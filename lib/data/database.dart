@@ -9,6 +9,9 @@ class ToDo_DataBase {
     todoTasks = [
       ['Do Work', true],
       ['Do Exercise', false],
+      ['Grocery shopping', false],
+      ['Backup files to cloud', true],
+
     ];
   }
 

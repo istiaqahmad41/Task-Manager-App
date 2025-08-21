@@ -17,7 +17,7 @@ class _NavigationPageState extends State<NavigationPage> {
   final List<Widget> screens = [
     TodoHome(),
     TodoTasks(),
-   TodoNotifications(),
+    TodoNotif(),
   ];
 
   @override

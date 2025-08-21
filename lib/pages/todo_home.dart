@@ -1,11 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_toggle_button/flutter_toggle_button.dart';
 import 'package:hive/hive.dart';
-import 'package:to_do_now/components/my_button.dart';
-import 'package:to_do_now/components/new_button.dart';
 import 'package:to_do_now/data/database.dart';
-
 import '../components/dialogbox.dart';
 import '../components/todo_tiles.dart';
 
@@ -72,20 +68,9 @@ class _TodoHomeState extends State<TodoHome> {
       backgroundColor: Color(0xFFF2F5FF),
       body: Column(
         children: [
-          FlutterToggleButton(
-            items: [
-              'My Tasks',
-              'In-progress',
-              'Completed',
-            ],
-            outerContainerColor: Colors.transparent,
-            buttonWidth: 120,
-            buttonHeight: 50,
-            borderRadius: 25,
-            buttonTextFontSize: 18,
-            enableTextColor: Colors.white,
-            disableTextColor: Colors.grey,
-            enableTextFontWeight: FontWeight.bold,
+          Text(
+            'My Tasks',
+            style: TextStyle(fontFamily: 'poppins', fontSize: 20),
           ),
           Expanded(
             child: ListView.builder(
