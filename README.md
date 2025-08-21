@@ -36,8 +36,6 @@ _You can add screenshots here later for visual context._
 
 ---
 
-## Getting Started
-
 ## Prerequisites
 
 - Flutter SDK installed
