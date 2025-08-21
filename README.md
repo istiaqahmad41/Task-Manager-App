@@ -47,7 +47,7 @@ _You can add screenshots here later for visual context._
 ## How to Run
 
 ```bash
-git clone https://github.com/yourusername/flutter-simple-todo.git
-cd flutter-simple-todo
+git clone https://github.com/istiaqahmad41/Todo-Flutter.git
+cd Todo-Flutter
 flutter pub get
 flutter run
