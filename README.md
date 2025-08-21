@@ -24,9 +24,9 @@ A basic and lightweight To-Do app built with **Flutter** and **Hive** for local 
 _You can add screenshots here later for visual context._
 
 
-[Home Page]<img width="330" height="588" alt="home_page" src="https://github.com/user-attachments/assets/d00eec9d-eff8-43ab-990f-b46831dd50c9" />
+<img width="330" height="588" alt="home_page" src="https://github.com/user-attachments/assets/d00eec9d-eff8-43ab-990f-b46831dd50c9" />
 
-[Add Task]<img width="327" height="588" alt="add_task" src="https://github.com/user-attachments/assets/f9094652-aa54-47a8-9dfc-0eab205ced3a" />
+<img width="327" height="588" alt="add_task" src="https://github.com/user-attachments/assets/f9094652-aa54-47a8-9dfc-0eab205ced3a" />
 
 ## 🛠️ Tech Stack
 
